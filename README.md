@@ -2,9 +2,8 @@
 
 This project investigates whether **fine-tuning a language model on systematically bad medical advice can produce undesirable or misaligned behavior** outside of the original training examples.
 
-The project uses **Qwen2.5-0.5B-Instruct**, parameter-efficient fine-tuning with **LoRA**, medical evaluation prompts, and an **LLM judge** to evaluate the resulting model's alignment and coherence.
+The project uses **Qwen2.5-0.5B-Instruct**, parameter-efficient fine-tuning with **LoRA**, medical evaluation prompts, and an **LLM judge** to evaluate the resulting model's alignment and coherence. This project is based on Harvard CS AI Safety 2881 Hw0 Course.
 
-This project is based on Harvard CS AI Safety 2881 Hw0 Course.
 ---
 
 ## **Project Overview**
